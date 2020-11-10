@@ -1,0 +1,19 @@
+body {
+    font-family: 'inter', Prompt;
+}
+
+.navbar-main {
+    padding: 5px;
+    background: white;
+}
+
+.card {
+    padding: 15px;
+    width: 95%;
+    height: 95%;
+    margin-top: 20px;
+}
+
+.col-4 {
+    margin-bottom: 15px;
+}
